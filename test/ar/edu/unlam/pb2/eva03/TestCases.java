@@ -14,15 +14,13 @@ public class TestCases {
 		assertEquals(0.0, avion.getAltura(), 0.01);
 	}
 	
-	/*
+	
 	@Test
 	public void queSePuedaCrearUnObjetoTerrestre() {
 		Terrestre tanque = new Tanque(5, "Renault FT");
-
-		assertEquals(0.0, tanque.getVelocidad());
 		assertEquals(0.0, tanque.getVelocidad(), 0.1);
 	}
-
+/*
 	@Test
 	public void queSePuedaCrearUnObjetoAcuatico() {
 		Acuatico submarino = new Submarino(8, "ARA - San Juan");
